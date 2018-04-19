@@ -6,3 +6,4 @@ script:
   - cmake ..
   -ckame --build .
   - ./hello
+  
